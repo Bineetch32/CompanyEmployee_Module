@@ -1,0 +1,14 @@
+body
+{
+    padding: 10px;
+    background-color: #942323d9;
+    font-weight: bold;
+
+}
+@media screen and (max-width:1000px)
+{
+    a
+    {
+        padding: 5px;
+    }
+}

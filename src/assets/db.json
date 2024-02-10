@@ -1,0 +1,22 @@
+{
+  "Employee": [
+    {
+      "id": "1",
+      "ename": "abcd",
+      "email": "aa",
+      "mobile": "aa",
+      "designation": "aa",
+      "username": "aaaa",
+      "password": "aa"
+    },
+    {
+      "id": "2",
+      "ename": "eeee",
+      "email": "ee",
+      "mobile": "ee",
+      "designation": "ee",
+      "username": "ee",
+      "password": "ee"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+.follow a
+{
+    padding: 10px;
+    color: #000000;
+    font-weight: bold;
+}
+@media screen and (max-width:600px)
+{
+    .follow a
+    {
+        padding: 5px;
+    }
+}
+p{
+    text-shadow: rgb(10, 9, 7);
+    color: rgba(6, 6, 22, 0.057);
+}
+h2{
+    color: rgb(30, 71, 71);
+}

@@ -1,0 +1,25 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "button-type": "off",
+    "axe/name-role-value": "off",
+    "typescript-config/strict": "off",
+    "no-inline-styles": "off",
+    "axe/structure": "off",
+    "axe/text-alternatives": "off",
+    "axe/forms": "off",
+    "axe/aria": "off",
+    "axe/parsing": "off",
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "-webkit-text-size-adjust",
+          "-webkit-tap-highlight-color"
+        ]
+      }
+    ]
+  }
+}
