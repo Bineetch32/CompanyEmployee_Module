@@ -7,7 +7,7 @@ import { Employee } from '../model/employee';
 export class CommonService {
  
  
-url:string="https://jsonplaceholder.typicode.com/";
+url:string="http://localhost:3000/Employee";
 private nextId: number=1;
 
   constructor(private http:HttpClient) { }
